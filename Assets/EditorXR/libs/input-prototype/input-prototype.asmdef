@@ -1,0 +1,10 @@
+{
+    "name": "input-prototype",
+    "references": [
+        "SteamVR"
+    ],
+    "optionalUnityReferences": [],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false
+}

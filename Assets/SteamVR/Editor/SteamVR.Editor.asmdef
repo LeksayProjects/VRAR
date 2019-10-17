@@ -1,0 +1,12 @@
+{
+    "name": "SteamVR.Editor",
+    "references": [
+        "SteamVR"
+    ],
+    "optionalUnityReferences": [],
+    "includePlatforms": [
+        "Editor"
+    ],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false
+}
